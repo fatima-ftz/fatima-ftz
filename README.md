@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-fatimatuzzahra--ftz-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/fatima-ftz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-fatima--725-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-fatima--ftz-black?style=flat&logo=github" />
   </a>
 </p>
 
