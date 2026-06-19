@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-Fullstack Web Developer with ~2 years of experience, specializing in **JavaScript/TypeScript**, **React**, **NodeJS**, and **Java/Spring Boot**.  
+Fullstack Web Developer specializing in **JavaScript/TypeScript**, **React**, **NodeJS**, and **Java/Spring Boot**.  
 Currently pursuing a **Master's in IoT and Cybersecurity** at the University of Lille, France.  
 Author of a peer-reviewed publication on AI and Deep Learning (**IEEE INMIC 2024**).  
 Passionate about code quality, unit testing, CI/CD, and working in agile teams on technically challenging projects.
